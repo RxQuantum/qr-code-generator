@@ -1,7 +1,7 @@
 # QR Code Generator
 A very simple software to generate and download a QR code that can be used to share a link.
 
-<img src="img/screen.png">
+<img src="images/screen.png">
 
 ###MIT License
 ### MIT License
